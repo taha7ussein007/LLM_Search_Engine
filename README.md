@@ -8,10 +8,10 @@ I'm following in this repo the great [blog](https://www.anyscale.com/blog/llm-op
 ![alt text](imgs/1.jpg)
 
 ### Accelerating indexing using Ray
-![alt text](https://github.com/taha7ussein007/LLM_Search_Engine/blob/master/imgs/2.png)
+![alt text](imgs/2.png)
 
 ### Serving
-![alt text](https://github.com/taha7ussein007/LLM_Search_Engine/blob/master/imgs/3.png)
+![alt text](imgs/3.png)
 
 
 
