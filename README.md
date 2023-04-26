@@ -5,7 +5,7 @@ I'm following in this repo the great [blog](https://www.anyscale.com/blog/llm-op
 ## First Part 
 
 ### Building the index
-![alt text](https://github.com/taha7ussein007/LLM_Search_Engine/blob/master/imgs/1.jpg)
+![alt text](imgs/1.jpg)
 
 ### Accelerating indexing using Ray
 ![alt text](https://github.com/taha7ussein007/LLM_Search_Engine/blob/master/imgs/2.png)
